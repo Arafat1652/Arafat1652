@@ -1,5 +1,15 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
+
 # 💫 About Me:
-I'm currently Studying
+
+Hello there! 👋  
+I'm **Arafat Hosen**, a passionate **web developer** with a strong interest in building responsive and user-friendly web applications. Currently, I'm pursuing my **Bachelor's degree in Physics**, but my heart is set on creating innovative solutions with **React.js** and **Next.js**.
+
+- 🌱 I’m continuously learning and enhancing my skills in **frontend development**, with a focus on modern technologies like **TailwindCSS** and **Firebase**.  
+- 🚀 I enjoy tackling real-world problems and creating elegant, efficient designs for the web.  
+- 💡 In my free time, I explore new frameworks and work on personal projects to expand my expertise.  
+
 
 
 ## 🌐 Socials:
